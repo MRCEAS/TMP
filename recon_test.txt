@@ -1,1 +1,1 @@
-psr.exe /start /output X:\Z12345\test.zip /sc 1 /gui 0
+psr.exe /start /output C:\temp\test.zip /sc 1 /gui 0
